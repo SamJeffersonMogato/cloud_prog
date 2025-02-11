@@ -1,1 +1,1 @@
-# cloud_prog
+simple Java program that prints "Hello, GitHub!".
